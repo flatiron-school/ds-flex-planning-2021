@@ -1,0 +1,29 @@
+#,Milestone,Duration in Base (20wk),Duration in Base (40wk),Duration in Base (60wk),Cumulative Duration (20wk),Cumulative Duration (40wk),Cumulative Duration (60wk)
+1,Topic 3: Data Serialization Formats - Cumulative Lab,4,8,12,4,8,12
+2,Topic 4: EDA with Pandas - Cumulative Lab,5,10,15,9,18,27
+3,Topic 5: Pandas Data Cleaning - Cumulative Lab,2,4,6,11,22,33
+4,Topic 7: SQL - Cumulative Lab,4,8,12,15,30,45
+5,Topic 9: APIs - Cumulative Lab,2,4,6,17,34,51
+6,Phase 1 Project,9,18,27,26,52,78
+7,Phase 1 Blog Post,2,4,6,28,56,84
+8,Topic 15: Hypothesis Testing - Cumulative Lab,8,16,24,36,72,108
+9,Topic 16: Website A/B Testing - Cumulative Lab,2,4,6,38,76,114
+10,Topic 19: Preprocessing with scikit-learn - Cumulative Lab,7,14,21,45,90,135
+11,Topic 20: Linear Regression - Cumulative Lab,2,4,6,47,94,141
+12,Phase 2 Project,7,14,21,54,108,162
+13,Phase 2 Blog Post,2,4,6,56,112,168
+14,Topic 24: Machine Learning Fundamentals - Cumulative Lab,4,8,12,60,120,180
+15,Topic 26: Logistic Regression - Cumulative Lab,5,10,15,65,130,195
+16,Topic 29: Nonparametric ML Models - Cumulative Lab,6,12,18,71,142,213
+17,Phase 3 Project,11,22,33,82,164,246
+18,Phase 3 Blog Post,2,4,6,84,168,252
+19,Topic 33: Dimensionality Reduction - Cumulative Lab,2,4,6,86,172,258
+20,Topic 34: Market Segmentation with Clustering - Lab,2,4,6,88,176,264
+21,Topic 38: ARMA Models in Statsmodels - Lab,6,12,18,94,188,282
+22,Topic 39: Text Classification - Cumulative Lab,2,4,6,96,192,288
+23,Phase 4 Project,14,28,42,110,220,330
+24,Phase 4 Blog Post,2,4,6,112,224,336
+25,Capstone Topic Decision and Data Gathering Deadline,8,16,24,120,240,360
+26,Capstone MVP Deadline,7,14,21,127,254,381
+27,Capstone Project Review,11,22,33,138,276,414
+28,Final Capstone Deadline,2,4,6,140,280,420
